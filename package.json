@@ -1,0 +1,14 @@
+{
+  "name": "terminal-remote",
+  "version": "0.0.1",
+  "description": "A terminal based remote control for LG smart TV",
+  "author": "Sankaran Kaliappan <mail@sankarank.in>",
+  "private": true,
+  "dependencies": {
+    "commander": "^2.8.1",
+    "parse-headers": "^2.0.0",
+    "parser-xml": "^0.1.0",
+    "request-promise": "^0.4.3",
+    "toxml": "0.0.1"
+  }
+}
